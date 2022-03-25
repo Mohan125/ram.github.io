@@ -1,7 +1,17 @@
-## Welcome to GitHub Pages
+# About Me
+### Devops & Cloud Infrastructure Engineer | .Net Developer
 
-You can use the [editor on GitHub](https://github.com/Mohan125/ram.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mohan is currently working in a MNC as Devops & Cloud Infrastructure Engineer.
 
+He is responsible for creating CI/CD, Cloud Infrastructures and APIs in .Net Core
+
+# Specialities :
+1. Azure Devops
+2. Microsoft Azure
+3. .Net 
+
+
+<!-- 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -34,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
